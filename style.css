@@ -19,10 +19,12 @@ footer,
 body {
   line-height: 1.6;
   font-size: 18px;
-  padding: 0 10px;
+  padding: 0 20px;
   margin: 60px auto;
   max-width: 700px;
 }
+
+
 
 h2,
 h2,
@@ -56,3 +58,4 @@ a:visited {
 div.experience li {
   margin: 5px 0;
 }
+
