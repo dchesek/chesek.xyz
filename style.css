@@ -24,7 +24,7 @@ a:visited {
 .center {
   object-position: 50% 50%;
   margin-left: auto;
-  margin-right: auto;
+  margin-right: 5px;
   vertical-align: middle;
   width: 5%; 
   border-radius: 50%; 
@@ -51,8 +51,8 @@ div.consulting li {
 }
 
 #profilePic {
-  width: 100px;
-  border-radius: 50%; 
+  width: 125px;
+  border-radius: 10%;
   margin: 10px;
 }
 
@@ -64,8 +64,8 @@ div.consulting li {
     display: block;
     float: right;
   }
-  
 
+  
 @media screen and (max-width: 600px) {
   body {
     font-size: 16px;
@@ -87,12 +87,6 @@ div.consulting li {
     text-align: None;
     display: block;
     float: None;
-  }
-
-  #profilePic {
-    width: 100px;
-    border-radius: 50%; 
-    margin: 10px;
   }
 
   .center {
